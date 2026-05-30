@@ -2,7 +2,7 @@
 Titanic Dataset Data Cleaning and Preprocessing using Python, Pandas, Seaborn and Scikit-Learn
 # Titanic Dataset Data Cleaning & Preprocessing
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates a complete **Data Cleaning and Preprocessing Pipeline** using the Titanic Dataset. The goal is to transform raw and inconsistent data into a clean, structured, and machine-learning-ready dataset through industry-standard preprocessing techniques.
 
@@ -10,7 +10,7 @@ Data preprocessing is a crucial step in the Machine Learning workflow because mo
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The objectives of this project are:
 
@@ -24,7 +24,7 @@ The objectives of this project are:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Python
 * Pandas
@@ -36,7 +36,7 @@ The objectives of this project are:
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 ### Original Dataset
 
@@ -62,7 +62,7 @@ The objectives of this project are:
 
 ---
 
-## 🔍 Data Preprocessing Workflow
+##  Data Preprocessing Workflow
 
 ```text
 Raw Dataset
@@ -253,7 +253,7 @@ A correlation matrix was generated to study relationships among features.
 
 ---
 
-## 📊 Visualizations Included
+##  Visualizations Included
 
 * Missing Values Heatmap
 * Fare Distribution Before Outlier Removal
@@ -262,7 +262,7 @@ A correlation matrix was generated to study relationships among features.
 
 ---
 
-## ✅ Final Results
+##  Final Results
 
 | Metric                         | Value |
 | ------------------------------ | ----- |
@@ -276,7 +276,7 @@ A correlation matrix was generated to study relationships among features.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Titanic-Data-Cleaning/
@@ -289,7 +289,7 @@ Titanic-Data-Cleaning/
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, the following concepts were implemented and understood:
 
@@ -305,7 +305,7 @@ Through this project, the following concepts were implemented and understood:
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 The Titanic dataset was successfully preprocessed using industry-standard data cleaning techniques.
 
